@@ -2,13 +2,17 @@
 
 **Evidence-led pre-code decisions for AI agents.**
 
-A research-first, human-owned review skill for project ideas, strategies, product concepts, and business cases. It helps an AI agent challenge weak reasoning before code, budget, or commitments make it expensive.
+AI planning sessions can produce plausible agreement while leaving weak assumptions, missing evidence, and better alternatives unexamined.
+
+Once an idea turns into code, budget, or a public commitment, correcting those gaps becomes slower and more expensive.
+
+Project Reality Check is a research-first review skill that pressure-tests project ideas, strategies, product concepts, and business cases before that point. It separates evidence from assumptions, surfaces counterarguments, and proposes viable alternatives. It gives advice; you make the decision.
 
 Built for **Claude Code**, **Codex**, and other agents that can load a Markdown skill.
 
 ## Why use it?
 
-Most planning prompts produce plausible agreement. Project Reality Check requires a more useful response:
+A good review should:
 
 - Research material external claims when web access exists.
 - Separate verified facts, contradictions, unknowns, and assumptions.
